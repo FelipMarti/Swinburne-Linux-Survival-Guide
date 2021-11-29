@@ -63,11 +63,14 @@ Server Type: `Exchange Web Services`
 
 ----
 Username: `username@swin.edu.au`
+
 Host URL: `https://outlook.office365.com/EWS/Exchange.asmx` don't Fetch URL.
 
 ----
 Authentication: `OAuth2 (Office365)`
+
 Tenant: `df7f7579-3e9c-4a7e-b844-420280f53859`
+
 Application ID: `22727452-3b5d-4848-ad0c-a4880070afc6`
 
 [More info.](https://wiki.gnome.org/Apps/Evolution/EWS/OAuth2)
