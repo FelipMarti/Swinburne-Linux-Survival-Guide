@@ -135,6 +135,10 @@ If the computer is a desktop that is always going to stay on campus, you can jus
 
 `NTP=ntp.swin.edu.au`
 
+Once you have edited the file, you can restart the service to force the synchronization of the system time with the NTP server:
+
+`sudo systemctl restart systemd-timesyncd.service`
+
 [More info.](http://manpages.ubuntu.com/manpages/jammy/man5/timesyncd.conf.5.html)
 
 
